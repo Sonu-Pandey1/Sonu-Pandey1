@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-pandey1&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-pandey1" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **React ,Redux ,javaScript**
+- 💬 Ask me about **NextJs ,ReactJs ,Redux ,javaScript ,ReactNative**
 
 - 📫 How to reach me **Sonupandeybaldeo2003@gmail.com**
 
